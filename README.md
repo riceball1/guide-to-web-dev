@@ -1,6 +1,6 @@
 # A Guide to Web Development
 
-A guide to web development inspired by the roadmap to Web Development here https://www.w3schools.com/whatis/
+This is a repo for me to gather focused knowledge on improving myself as a Web Developer expert. This guide to web development inspired by the roadmap to Web Development here https://www.w3schools.com/whatis/. I want to be able to provide some continued practice in all areas associated with Web Development, and create a sort of continuous refresher for myself on topics that are essential to web development. This will be a living document that will continuously be updated and modified as the web continues to evolve.
 
 
 ## Roadmap
