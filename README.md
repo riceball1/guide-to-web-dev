@@ -5,7 +5,7 @@ This is a repo for me to gather focused knowledge on improving myself as a Web D
 
 ## Roadmap
 
-### Step 1: Learn the Basics
+### [Step 1: Learn the Basics](https://github.dev/riceball1/guide-to-web-dev/blob/main/Step-1-Learn-The-Basics)
 
 | Topic      | Description | 
 | :-----------: | :-----------: |
