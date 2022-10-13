@@ -3,8 +3,8 @@
 | Topic      | Description | 
 | :-----------: | :-----------: |
 | [HTML](./html-basics.md)      | HTML, HTTP/XHR       |
-| CSS   | CSS, Responsive CSS        |
-| JavaScript   | JavaScript, ECMAScript 5 |
+| [CSS](./css-basics.md)    | CSS, Responsive CSS        |
+| [JavaScript](./js-basics.md)  | JavaScript, ECMAScript 5 |
 
 
 ## My Take
